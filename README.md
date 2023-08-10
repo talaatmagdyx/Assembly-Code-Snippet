@@ -86,4 +86,6 @@ This guide outlines the steps to create Linux executables from NASM source code.
 This process simplifies the creation of Linux executables from NASM source code, providing you with functional programs for your Intel x86 architecture projects.
 
 ### reference 
+**[Assembly Code Snippet](https://github.com/talaatmagdyx/Assembly-Code-Snippet)**
+
 [Assembly Repository](https://github.com/talaatmagdyx/Assembly)
