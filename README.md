@@ -1,5 +1,10 @@
 # Assembly Code Snippet
 
+
+![gitbook](https://2775338190-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Flogo%2FOuhJtvIHKdHaX2i4srID%2FGitBook.svg?alt=media&token=037f9094-63cd-4222-8bbf-bc3ca7e13cf1)
+
+I had a wonderful experience exploring GitBook. If you're interested in delving into this repository like reading a book, you can access it through the following link: **[Assembly Code Snippet](https://talaatmagdyx.gitbook.io/assembly-code-snippet/)**.
+
 **Creating Linux Executables from NASM Source Code**
 
 **(NASM)**, a versatile assembler and disassembler, is a vital tool for Intel x86 architecture programming. It's widely adopted for crafting programs in 16-bit, 32-bit (IA-32), and 64-bit (x86-64) formats. This guide focuses on creating Linux executables from NASM source code. The process involves translating low-level mnemonics into machine language, understandable by processors.
